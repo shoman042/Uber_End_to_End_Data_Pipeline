@@ -216,6 +216,11 @@ The Gold layer feeds a three-page analytical dashboard:
 
 ---
 
+## Author
+
+**Yusuf Shoman**
+[LinkedIn](https://www.linkedin.com/in/yusufshoman-cpe42/)
+
 <div align="center">
 <sub>Built as part of a data engineering training program.</sub>
 </div>
